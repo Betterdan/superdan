@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-        <title>Dsir日记</title>
-        <link>/</link>
-        <description>Recent content on Dsir日记</description>
+        <title>Posts on Dsir日记</title>
+        <link>/post/</link>
+        <description>Recent content in Posts on Dsir日记</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-CN</language>
-        <lastBuildDate>Sun, 15 Jan 2023 00:33:08 +0800</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Sun, 15 Jan 2023 00:33:08 +0800</lastBuildDate><atom:link href="/post/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>Hugo建站（一）</title>
         <link>/post/2023/01/15/hugo%E5%BB%BA%E7%AB%99%E4%B8%80/</link>
         <pubDate>Sun, 15 Jan 2023 00:33:08 +0800</pubDate>
@@ -115,18 +115,6 @@
 &lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;
 test
 &lt;/code&gt;&lt;/pre&gt;&lt;h5 id=&#34;小标题&#34;&gt;小标题&lt;/h5&gt;
-</description>
-        </item>
-        <item>
-        <title>About</title>
-        <link>/about/</link>
-        <pubDate>Sat, 14 Jan 2023 21:48:18 +0800</pubDate>
-        
-        <guid>/about/</guid>
-        <description>&lt;h4 id=&#34;关于我&#34;&gt;关于我&lt;/h4&gt;
-&lt;blockquote&gt;
-&lt;p&gt;这是一个自我介绍&lt;/p&gt;
-&lt;/blockquote&gt;
 </description>
         </item>
         
