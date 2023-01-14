@@ -1,0 +1,26 @@
+baseURL: 'https://www.superdan.pw/'
+languageCode: 'en-us'
+title: 'Dsir日记'
+theme: 'hugo-theme-stack'
+
+
+languages:
+    en:
+        languageName: English
+        title: Dsir website
+        description: Example description
+        weight: 2
+    zh-cn:
+        languageName: 中文
+        title: Dsir日记
+        description: 丹的个人站点
+        weight: 1
+params:
+    sidebar: 
+        compact: false
+        emoji: 🍥
+        subtitle: 啦啦啦啦啦啦，
+        avatar:
+            enable: true
+            src: img/avatar.jpg
+
