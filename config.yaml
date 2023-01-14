@@ -1,8 +1,8 @@
-baseURL: 'https://www.superdan.pw/'
-languageCode: 'en-us'
+# baseURL: 'https://www.superdan.pw/'
+languageCode: 'zh-CN'
 title: 'Dsir日记'
 theme: 'hugo-theme-stack'
-
+DefaultContentLanguage: zh-cn
 
 languages:
     en:
@@ -23,4 +23,13 @@ params:
         avatar:
             enable: true
             src: img/avatar.jpg
+
+    footer:
+        since: 2023
+        customText: 
+    
+    comments: 
+        enabled: false
+    widgets:
+
 
